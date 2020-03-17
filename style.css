@@ -1,0 +1,24 @@
+.footer{
+  margin-left : 80px;
+  font-size : 18px;
+}
+.grid img{
+  height: 100px;
+  width:100px;
+}
+.grid{
+  display:flex;
+  justify-content: space-around;
+}
+.grid div {
+  display:grid;
+  justify-items: center;
+  border:1px black solid;
+  line-height:1px ;
+}
+.grid div div{
+  border:0px;
+}
+h1{
+  border: 0px;
+}
